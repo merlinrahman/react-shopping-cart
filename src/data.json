@@ -1,0 +1,46 @@
+ {
+     "products": [
+         {
+             "_id":"stock1",
+             "image":"/images/image1.png",
+             "title":"Midi sundress with sharing detail",
+             "availableSizes": ["XL","L","XL","XXL"],
+             "price":29.9
+         },
+         {
+            "_id":"stock2",
+            "image":"/images/image2.png",
+            "title":"Available for the purpose of the cold weather.",
+            "availableSizes": ["XL","L","XL","XXL"],
+            "price":29.9
+        },
+        {
+            "_id":"stock3",
+            "image":"/images/image3.png",
+            "title":"supposed dress for the pretty lady and attention of the public",
+            "availableSizes": ["XL","L","XL","XXL"],
+            "price":29.9
+        },
+        {
+            "_id":"stock4",
+            "image":"/images/image4.png",
+            "title":"Make your best available choice for the better dress mode.",
+            "availableSizes": ["XL","L","XL","XXL"],
+            "price":29.9
+        },
+        {
+            "_id":"stock5",
+            "image":"/images/image5.png",
+            "title":"Midi sundress with sharing detail",
+            "availableSizes": ["XL","L","XL","XXL"],
+            "price":29.9
+        },
+        {
+            "_id":"stock6",
+            "image":"/images/image6.png",
+            "title":"Available in all sizes in the whole shop of the business",
+            "availableSizes": ["XL","L","XL","XXL"],
+            "price":29.9
+        }
+     ]
+ }
