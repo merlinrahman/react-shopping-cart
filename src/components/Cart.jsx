@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import formatCurrency from '../util'
+import { Fade } from 'react-reveal';
 
 export default class cart extends Component {
     constructor(props){
@@ -42,6 +43,7 @@ export default class cart extends Component {
                 {/* // cart items on the sidebar */}
             <div>
                 <div className="cart">
+                <Fade left cascade>
                     <ul className="cart-items">
                         {cartItems.map(item =>(
                             <li key={item._id}>
@@ -59,6 +61,7 @@ export default class cart extends Component {
                             </li>
                         ))}
                     </ul>
+                    </Fade>
                 </div>
 
                 {/* total cart items */}
@@ -75,6 +78,7 @@ export default class cart extends Component {
                     </div>
                 </div>
                 {this.state.showCheckout && (
+                    <Fade right cascade>
                     <div className="cart">
                         <form onSubmit={this.createOrder}>
                             <ul className='form-container'>
@@ -96,6 +100,7 @@ export default class cart extends Component {
                             </ul>
                         </form>
                     </div>
+                    </Fade>
                 )}
                 </div>
                 )}
