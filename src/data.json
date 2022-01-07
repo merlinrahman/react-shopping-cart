@@ -5,6 +5,7 @@
              "image":"/images/image1.png",
              "title":"Midi sundress with sharing detail",
              "availableSizes": ["XL","XXL"],
+             "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iure illum sint! Repellendus, animi sapiente? Itaque hic debitis ad dolore nihil, numquam fugit aperiam velit! Cum provident vitae voluptates quidem!",
              "price":10.9
          },
          {
@@ -12,6 +13,7 @@
             "image":"/images/image2.png",
             "title":"Available for the purpose of the cold weather.",
             "availableSizes": ["XL","L"],
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iure illum sint! Repellendus, animi sapiente? Itaque hic debitis ad dolore nihil, numquam fugit aperiam velit! Cum provident vitae voluptates quidem!",
             "price":12.9
         },
         {
@@ -19,6 +21,7 @@
             "image":"/images/image3.png",
             "title":"supposed dress for the pretty lady and attention of the public",
             "availableSizes": ["XXL"],
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iure illum sint! Repellendus, animi sapiente? Itaque hic debitis ad dolore nihil, numquam fugit aperiam velit! Cum provident vitae voluptates quidem!",
             "price":20.9
         },
         {
@@ -33,6 +36,7 @@
             "image":"/images/image5.png",
             "title":"Midi sundress with sharing detail",
             "availableSizes": ["XL","XXL"],
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iure illum sint! Repellendus, animi sapiente? Itaque hic debitis ad dolore nihil, numquam fugit aperiam velit! Cum provident vitae voluptates quidem!",
             "price":80.1
         },
         {
@@ -40,6 +44,7 @@
             "image":"/images/image6.png",
             "title":"Available in all sizes in the whole shop of the business",
             "availableSizes": ["XL","L","XL"],
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iure illum sint! Repellendus, animi sapiente? Itaque hic debitis ad dolore nihil, numquam fugit aperiam velit! Cum provident vitae voluptates quidem!",
             "price":90.4
         }
      ]
